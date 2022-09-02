@@ -1,0 +1,11 @@
+“name” : “Jason”,
+“version” : “1.0.0”,
+“description” : “”,
+“main” : “index.js”,
+
+“Scripts” : {
+   “test” : “echo \ ”Erro: no test specified\” && exit 1 “
+
+},
+“autor” : “”,
+“license”: “isc”
