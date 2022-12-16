@@ -1,0 +1,12 @@
+quando um usuário acessa ou digita a URL de um site,
+o navegador cria uma solicitação HTTP na web e a envia ao endereço de IP indicado pela URL. 
+Dessa forma, o servidor recebe essa solicitação e envia os arquivos associados que,
+nada mais são, do que os sites que acessamos na Internet.
+
+A arquitetura cliente servidor é uma arquitetura de aplicação distribuída,
+ ou seja, na rede existem os fornecedores de recursos ou serviços a rede, que são chamados de servidores,
+ e existem os requerentes dos recursos ou serviços, denominados clientes
+
+O cliente não compartilha nenhum de seus recursos com o servidor, mas no entanto ele solicita alguma função do servidor,
+sendo ele, o cliente, responsável por iniciar a comunicação com o servidor,
+enquanto o mesmo aguarda requisições de entrada.
