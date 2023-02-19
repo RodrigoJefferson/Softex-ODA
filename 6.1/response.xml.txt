@@ -1,0 +1,16 @@
+xml version=1.0
+
+soapEnvelope
+xmlnssoap=httpwww.w3.org200305soap-envelope
+soapencodingStyle=httpwww.w3.org200305soap-encoding
+
+soapBody xmlnsm=httpwww.example.orgconsultaClientes
+  mconsultaClienteResponse
+    mNomeGeralmNome
+    mSobrenomede RiviamSobrenome
+    mEnderecoKaer Morhen, 6661mEndereco
+    mTelefone(81)93422-4002mTelefone
+  mconsultaClienteResponse
+soapBody
+
+soapEnvelope
